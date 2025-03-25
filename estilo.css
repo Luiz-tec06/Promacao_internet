@@ -1,0 +1,13 @@
+h1{
+
+    color: #ff0022;
+    font-size: 120px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.outro{
+
+    color: hwb(330 1% 0%);
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
