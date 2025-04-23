@@ -1,0 +1,79 @@
+table{
+    border: 1px solid #999;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #dddddd;
+    border-collapse: collapse;
+}
+
+.Tituloscolunas{
+    font-size: 13px;
+    color: #999999;
+}
+
+.Posicoesdeclassificacao1{
+    font-size: 18px;
+    color: #003366;
+}
+
+.Posicoesdeclassificacao2{
+    font-size: 18px;
+    color: #1398be;
+}
+
+.Posicoesdeclassificacao3{
+    font-size: 18px;
+    color: #de9800;
+}
+
+.Posicoesdeclassificacao4{
+    font-size: 18px;
+    color: #cccccc;
+}
+
+.Posicoesdeclassificacao5{
+    font-size: 18px;
+    color: #c91b04;
+}
+
+.Times{
+    font-size: 14px;
+    color: #666666;
+}
+
+.Pontos{
+    font-size: 14px;
+    color: black;
+    background-color: #f7f7f7;
+}
+
+.Colunas{
+    font-size: 14px;
+    color: #666666;
+}
+
+.Colunascinzas{
+    background-color: #f7f7f7;
+}
+
+
+ th, td {
+    border: none;
+    border-bottom: 1px solid #cccccc;
+    padding: 5px;
+}
+
+
+.Colunas, .Pontos {
+    width: 50px;
+    font-size: 14px;
+    min-width: 40px;
+    max-width: 40px;
+    width: 40px;
+}
+
+.rodape{
+    font-size: 10px;
+    text-align: left;
+    border: 1px;
+    color: #555555,;
+}
